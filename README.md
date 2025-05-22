@@ -1,4 +1,4 @@
-# APF-RRT*
+# APF-RRT_star改进点：
 ## 1. 加入目标偏向
 ## 2. 采用AABB碰撞检测
 ## 3. 加入APF引导
